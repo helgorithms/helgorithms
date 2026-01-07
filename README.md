@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Helge 
 
-💭 currently learning about data science / AI models @NeueFische in Berlin
-🎨 marketing professional with a creative mindset
-👩‍🎓 philosopher with a passion for language and rhetoric
-💡 interested in NLP, political rhetoric and using data for the good cause
+💭 currently learning about data science / AI models [@NeueFische]([url](https://github.com/neuefische)) in Berlin  
+🎨 marketing professional with a creative mindset  
+👩‍🎓 philosopher with a passion for language and rhetoric  
+💡 interested in NLP, political rhetoric and using data for the good cause  
 <!--
 **helgorithms/helgorithms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

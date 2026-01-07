@@ -4,6 +4,16 @@
 🎨 marketing professional with a creative mindset  
 👩‍🎓 philosopher with a passion for language and rhetoric  
 💡 interested in NLP, political rhetoric and using data for the good cause  
+
+
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 <!--
 **helgorithms/helgorithms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

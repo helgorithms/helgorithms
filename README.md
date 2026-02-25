@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Helge 
 
-💭 currently learning about data science / AI models [@NeueFische]([url](https://github.com/neuefische)) in Berlin  
+💭 currently learning about data science / AI models [@NeueFische](https://github.com/neuefische) in Berlin  
 🎨 data-driven marketing professional with a creative mindset  
 👩‍🎓 philosopher with a passion for language and rhetoric  
 💡 interested in NLP, political rhetoric and using data for the good cause  

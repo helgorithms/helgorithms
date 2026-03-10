@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Helge 
 
-💭 currently learning about data science / AI models [@NeueFische](https://github.com/neuefische) in Berlin  
+🏛️ currently working on an argument mining chatbot for German parliamentary debates using RAG
+💭 constantly learning about data science / AI models 
 🎨 data-driven marketing professional with a creative mindset  
-👩‍🎓 philosopher with a passion for language and rhetoric  
+👩‍🎓 philosopher with a passion for language, rhetoric and data  
 💡 interested in NLP, political rhetoric and using data for the good cause  
 
 

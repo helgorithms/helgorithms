@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Helge 
 
-🏛️ currently working on an argument mining chatbot for German parliamentary debates using RAG
-💭 constantly learning about data science / AI models 
+🏛️ currently working on an argument mining chatbot for German parliamentary debates using RAG  
+💭 constantly learning about data science / AI models  
 🎨 data-driven marketing professional with a creative mindset  
 👩‍🎓 philosopher with a passion for language, rhetoric and data  
 💡 interested in NLP, political rhetoric and using data for the good cause  
